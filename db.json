@@ -39,6 +39,11 @@
       "email": "asdf",
       "password": "123",
       "id": 8
+    },
+    {
+      "email": "asdfadsdf@asdf.com",
+      "password": "d",
+      "id": 9
     }
   ],
   "boards": [
