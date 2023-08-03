@@ -1,5 +1,4 @@
 import { Button } from "antd";
-import axios from "axios";
 import { useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import { Outlet } from "react-router-dom";
